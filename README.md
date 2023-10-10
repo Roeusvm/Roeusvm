@@ -1,4 +1,4 @@
-Yo,maybe I'm bad at coding.
+Yo, maybe I'm bad at coding.
 
 <!---
 Roeusvm/Roeusvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
